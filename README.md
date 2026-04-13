@@ -2,6 +2,8 @@
 This project is basically a new revision of my other project "quickshiftuino".
 The differences are pretty big though, so I decided to create a new repository.
 
+-> ***Note:*** This project is intended for TCI ignition systems. Older bikes with a CDI ignition are not compatible (many dirt bikes without a full ECU, most carbureted bikes etc.)
+
 "**quickshiftuino**" had 2 channels that could cut the power to the ignition coils on the high side (P-Mos).
 That topology works great, is fairly simple and reliable, but doesn't allow for more complex features.
 
